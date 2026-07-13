@@ -1,0 +1,11 @@
+python-dotenv
+requests
+PyMuPDF
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-community
+langchain-classic
+google-genai
+sentence-transformers
